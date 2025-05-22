@@ -1,5 +1,5 @@
 specVersion: 0.35.0
-name: pycheck
+name: pytime
 runtime: python
 created: 2025-05-22T04:16:44.533141995Z
 invoke: cloudevent
